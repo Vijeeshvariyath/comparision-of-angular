@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(169, 200, 233);
+}
+
+.table{
+    width: 50%;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.heading{
+    background-color: rgb(237, 243, 243);
+    color: black;
+}
